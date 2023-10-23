@@ -1,3 +1,4 @@
+s_domain
 menabev.com
 microlandsmartcenter.com
 outbound.dtdg.eu
